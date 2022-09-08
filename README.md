@@ -308,7 +308,7 @@ Sunucu otomatik olarak yeniden yüklenmelidir (çünkü yukarıdaki "uvicorn" ko
 
 ![Swagger UI interaction](https://fastapi.tiangolo.com/img/index/index-04-swagger-03.png)
 
-*Ardından "Yürüt" düğmesine tıklayın, kullanıcı arayüzü API'niz ile iletişim kuracak, parametreleri gönderecek, sonuçları alacak ve bunları ekranda gösterecektir:
+* Ardından "Yürüt" düğmesine tıklayın, kullanıcı arayüzü API'niz ile iletişim kuracak, parametreleri gönderecek, sonuçları alacak ve bunları ekranda gösterecektir:
 
 ![Swagger UI interaction](https://fastapi.tiangolo.com/img/index/index-05-swagger-04.png)
 
