@@ -31,14 +31,14 @@ FastAPI, standart Python türü ipuçlarına dayalı Python 3.6+ ile API'ler olu
 
 Temel özellikler şunlardır:
 
-* **Fast**: **NodeJS** ve **Go** ile eşit düzeyde çok yüksek performans. [Mevcut en hızlı Python framework'lerinden biri](#performance).
-* **Fast to code**: Increase the speed to develop features by about 200% to 300%. *
-* **Fewer bugs**: Reduce about 40% of human (developer) induced errors. *
-* **Intuitive**: Great editor support. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
-* **Easy**: Designed to be easy to use and learn. Less time reading docs.
-* **Short**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
-* **Robust**: Get production-ready code. With automatic interactive documentation.
-* **Standards-based**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
+* **Hızlı**: **NodeJS** ve **Go** ile eşit düzeyde çok yüksek performans. [Mevcut en hızlı Python framework'lerinden biri](#performance).
+* **Hızlı kodlama**: Özellikleri geliştirme hızını yaklaşık %200 ila %300 artırın. *
+* **Daha az hata**: İnsan (geliştirici) kaynaklı hataların yaklaşık %40'ını azaltın. *
+* **Sezgisel**:Harika editör desteği. <abbr title="also known as auto-complete, autocompletion, IntelliSense">tamamlama</abbr> her yerde. Daha az zaman hata ayıklama.
+* **Kolay**:Kullanımı ve öğrenmesi kolay olacak şekilde tasarlanmıştır. Dokümanları okumak için daha az zaman.
+* **Kısa**: Kod tekrarını en aza indirin. Her parametre bildiriminden birden çok özellik. Daha az hata.
+* **Sağlam**: Üretime hazır kod alın. Otomatik etkileşimli belgelerle.
+* **Standartlara dayalı**: API'ler için açık standartları temel alır (ve bunlarla tamamen uyumludur):<a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (önceden Swagger olarak biliniyordu) ve <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Şeması</a>.
 
 <small>* estimation based on tests on an internal development team, building production applications.</small>
 
