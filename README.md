@@ -296,7 +296,7 @@ def update_item(item_id: int, item: Item):
 
 Sunucu otomatik olarak yeniden yüklenmelidir (çünkü yukarıdaki "uvicorn" komutuna "--reload" eklediniz).
 
-###Etkileşimli API dokümanları yükseltmesi
+### Etkileşimli API dokümanları yükseltmesi
 
 şimdi git <a href="http://127.0.0.1:8000/docs" class="external-link" target="_blank">http://127.0.0.1:8000/docs</a>.
 
