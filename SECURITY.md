@@ -1,31 +1,31 @@
-# Security Policy
+# Güvenlik Politikası
 
-Security is very important for FastAPI and its community. 🔒
+FastAPI ve topluluğu için güvenlik çok önemlidir. 🔒
 
-Learn more about it below. 👇
+Aşağıda bunun hakkında daha fazla bilgi edinin. 👇
 
-## Versions
+## Sürümler
 
-The latest versions of FastAPI are supported.
+FastAPI'nin en son sürümleri desteklenir.
 
-You are encouraged to [write tests](https://fastapi.tiangolo.com/tutorial/testing/) for your application and update your FastAPI version frequently after ensuring that your tests are passing. This way you will benefit from the latest features, bug fixes, and **security fixes**.
+Uygulamanız için [testler yazmanız](https://fastapi.tiangolo.com/tutorial/testing/) ve testlerinizin geçtiğinden emin olduktan sonra FastAPI sürümünüzü sık sık güncellemeniz önerilir. Bu şekilde en son özelliklerden, hata düzeltmelerinden ve **güvenlik düzeltmelerinden** yararlanacaksınız.
 
-You can learn more about [FastAPI versions and how to pin and upgrade them](https://fastapi.tiangolo.com/deployment/versions/) for your project in the docs.
+Dokümanlarda projeniz için [FastAPI sürümleri ve bunların nasıl sabitlenip yükseltileceği](https://fastapi.tiangolo.com/deployment/versions/) hakkında daha fazla bilgi edinebilirsiniz.
 
-## Reporting a Vulnerability
+## Güvenlik Açığı Bildirme
 
-If you think you found a vulnerability, and even if you are not sure about it, please report it right away by sending an email to: security@tiangolo.com. Please try to be as explicit as possible, describing all the steps and example code to reproduce the security issue.
+Bir güvenlik açığı bulduğunuzu düşünüyorsanız ve bundan emin olmasanız bile, lütfen hemen security@tiangolo.com adresine bir e-posta göndererek bildirin. Lütfen güvenlik sorununu yeniden oluşturmak için tüm adımları ve örnek kodu açıklayarak mümkün olduğunca açık olmaya çalışın.
 
-I (the author, [@tiangolo](https://twitter.com/tiangolo)) will review it thoroughly and get back to you.
+Ben (yazar, [@tiangolo](https://twitter.com/tiangolo)) bunu iyice inceleyip size geri döneceğim.
 
-## Public Discussions
+## Herkese Açık Tartışmalar
 
-Please restrain from publicly discussing a potential security vulnerability. 🙊
+Lütfen olası bir güvenlik açığını herkesin önünde tartışmaktan kaçının. 🙊
 
-It's better to discuss privately and try to find a solution first, to limit the potential impact as much as possible.
+Potansiyel etkiyi mümkün olduğunca sınırlamak için özel olarak tartışmak ve önce bir çözüm bulmaya çalışmak daha iyidir.
 
 ---
 
-Thanks for your help!
+Yardımınız için teşekkürler!
 
-The FastAPI community and I thank you for that. 🙇
+FastAPI topluluğu ve bunun için size teşekkür ederim. 🙇
