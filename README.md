@@ -82,7 +82,7 @@ Temel özellikler şunlardır:
 
 ---
 
-"_I’m over the moon excited about **FastAPI**. It’s so fun!_"
+"_**FastAPI** için çok heyecanlıyım. Çok eğlenceli!_"
 
 <div style="text-align: right; margin-right: 10%;">Brian Okken - <strong><a href="https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855" target="_blank">Python Baytları</a> podcast sunucusu</strong> <a href="https://twitter.com/brianokken/status/1112220079972728832" target="_blank"><small>(ref)</small></a></div>
 
@@ -114,12 +114,12 @@ Eğer bir bina yapıyorsanız <abbr title="Command Line Interface">CLI</abbr> bi
 
 Python 3.6+
 
-FastAPI stands on the shoulders of giants:
+FastAPI devlerin omuzlarında duruyor:
 
 * <a href="https://www.starlette.io/" class="external-link" target="_blank">Starlette</a> for the web parts.
 * <a href="https://pydantic-docs.helpmanual.io/" class="external-link" target="_blank">Pydantic</a> for the data parts.
 
-## Installation
+## Kurulum
 
 <div class="termy">
 
@@ -131,7 +131,7 @@ $ pip install fastapi
 
 </div>
 
-You will also need an ASGI server, for production such as <a href="https://www.uvicorn.org" class="external-link" target="_blank">Uvicorn</a> or <a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank">Hypercorn</a>.
+Ayrıca üretim için bir ASGI sunucusuna ihtiyacınız olacak. <a href="https://www.uvicorn.org" class="external-link" target="_blank">Uvicorn</a> veya <a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank">Hypercorn</a>.
 
 <div class="termy">
 
@@ -143,11 +143,11 @@ $ pip install "uvicorn[standard]"
 
 </div>
 
-## Example
+## Örnek
 
-### Create it
+### Oluştur
 
-* Create a file `main.py` with:
+* Şunlarla bir "main.py" dosyası oluşturun:
 
 ```Python
 from typing import Union
